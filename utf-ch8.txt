@@ -1,0 +1,9 @@
+The <meta charset= "UTF-8"> tag in HTML servers an essential purpose: 
+It stands for Unicode Transformation Format 8-bit
+It defines the character encoding for the document. 
+Character encoding determines how charactes are represented in binary form within a document.
+It is widely used character encoding that supoorts a vast range of characters from different languages and symbols worldwide.
+By including this mata tag in HTML documents, you ensure that browsers interpret the content correctly.
+UTF-8 covers almost all the characters and symbol and it is suitable for multilingual websites. 
+UTF-8 ensuers proper display and interpretation of the text, regardless of the language or special charactes used.
+
